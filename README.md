@@ -16,6 +16,12 @@ A simple C-based application to read and edit MP3 file metadata such as title, a
 - How MP3 files store metadata (ID3 tags)
 - Working with binary files in C
 - Reading and modifying structured data in files
+  
+- ## 📁 Project Structure
+- main.c - Main program
+- view.c - Display MP3 tag details
+- edit.h / view.h / types.h - Header files
+- sample.mp3 - Sample file for testing
 
 ## ▶️ How to Run
 1. Compile the code using GCC:
